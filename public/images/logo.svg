@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="49px" viewBox="0 0 67 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Paul Verwey logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo" transform="translate(-159.000000, -203.000000)" fill="#14213D" fill-rule="nonzero">
+            <g id="logo" transform="translate(148.000000, 188.000000)">
+                <g id="P" transform="translate(33.234019, 33.234019) rotate(-45.000000) translate(-33.234019, -33.234019) translate(15.234019, 4.234019)" font-family="Montserrat-ExtraBold, Montserrat" font-size="48" font-weight="700">
+                    <text>
+                        <tspan x="0" y="46">P</tspan>
+                    </text>
+                </g>
+                <path d="M78.4222132,37.7722132 L78.4222132,50.2722132 L36.4222132,50.2722132 C35.0415013,50.2722132 33.7915013,49.7125691 32.8866793,48.8077471 C31.9818572,47.9029251 31.4222132,46.6529251 31.4222132,45.2722132 L31.4222132,37.7722132 L78.4222132,37.7722132 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" transform="translate(54.922213, 44.022213) rotate(-45.000000) translate(-54.922213, -44.022213) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

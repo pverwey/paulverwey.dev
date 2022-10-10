@@ -1,6 +1,5 @@
 <template>
-  <h1>🚧</h1>
-  <h2>Under construction</h2>
+  <img class="logo" src="images/logo.svg" alt="Paul Verwey.dev logo" />
 </template>
 
 <script>
@@ -10,8 +9,6 @@ export default {
 </script>
 
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-
 *,
 *::before,
 *::after {
@@ -72,5 +69,9 @@ h6 {
   justify-content: center;
   min-height: 100vh;
   flex-direction: column;
+}
+
+.logo {
+  width: 9rem;
 }
 </style>
