@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="67px" height="49px" viewBox="0 0 67 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="67px" height="57px" viewBox="0 0 67 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Paul Verwey logo</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Logo" transform="translate(-159.000000, -203.000000)" fill="#14213D" fill-rule="nonzero">
-            <g id="logo" transform="translate(148.000000, 188.000000)">
-                <g id="P" transform="translate(33.234019, 33.234019) rotate(-45.000000) translate(-33.234019, -33.234019) translate(15.234019, 4.234019)" font-family="Montserrat-ExtraBold, Montserrat" font-size="48" font-weight="700">
-                    <text>
-                        <tspan x="0" y="46">P</tspan>
-                    </text>
+        <g id="Logo" transform="translate(-159.000000, -198.000000)" fill="#14213D" fill-rule="nonzero">
+            <g id="logo" transform="translate(159.144003, 198.431239)">
+                <g id="P" transform="translate(22.587819, 22.587819) rotate(-45.000000) translate(-22.587819, -22.587819) translate(7.443819, 5.787819)">
+                    <g transform="translate(0.000000, 0.000000)" id="Shape">
+                        <path d="M-6.4057038e-14,33.6 L-6.4057038e-14,1.1287312e-13 L15.36,1.1287312e-13 C18.432,1.1287312e-13 21.08,0.496 23.304,1.488 C25.528,2.48 27.248,3.912 28.464,5.784 C29.68,7.656 30.288,9.872 30.288,12.432 C30.288,14.96 29.68,17.152 28.464,19.008 C27.248,20.864 25.528,22.296 23.304,23.304 C21.08,24.312 18.432,24.816 15.36,24.816 L5.28,24.816 L9.504,20.688 L9.504,33.6 L-6.4057038e-14,33.6 Z M9.504,21.696 L5.28,17.328 L14.784,17.328 C16.768,17.328 18.248,16.896 19.224,16.032 C20.2,15.168 20.688,13.968 20.688,12.432 C20.688,10.864 20.2,9.648 19.224,8.784 C18.248,7.92 16.768,7.488 14.784,7.488 L5.28,7.488 L9.504,3.12 L9.504,21.696 Z"></path>
+                    </g>
                 </g>
-                <path d="M78.4222132,37.7722132 L78.4222132,50.2722132 L36.4222132,50.2722132 C35.0415013,50.2722132 33.7915013,49.7125691 32.8866793,48.8077471 C31.9818572,47.9029251 31.4222132,46.6529251 31.4222132,45.2722132 L31.4222132,37.7722132 L78.4222132,37.7722132 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" transform="translate(54.922213, 44.022213) rotate(-45.000000) translate(-54.922213, -44.022213) "></path>
+                <path d="M67.2782103,27.3409739 L67.2782103,39.8409739 L25.2782103,39.8409739 C23.8974984,39.8409739 22.6474984,39.2813299 21.7426764,38.3765078 C20.8378544,37.4716858 20.2782103,36.2216858 20.2782103,34.8409739 L20.2782103,27.3409739 L67.2782103,27.3409739 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" transform="translate(43.778210, 33.590974) rotate(-45.000000) translate(-43.778210, -33.590974) "></path>
             </g>
         </g>
     </g>
